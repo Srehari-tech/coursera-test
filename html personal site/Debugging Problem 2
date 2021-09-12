@@ -5,12 +5,7 @@
     <title>Angela's Personal Site</title>
     <link rel="stylesheet" href="css/styles.css">
   </head>
-  
-  <style>
-      body{
-        background-color: gray;
-      }
-  </style>
+
   <body style="background-color: white">
     <table cellspacing="20">
       <tr>
